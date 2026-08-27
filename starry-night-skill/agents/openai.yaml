@@ -1,0 +1,8 @@
+interface:
+  display_name: "星月夜 Skill"
+  short_description: "批量把照片转换成《星月夜》油画，并输出逐张原图对照高清 PNG"
+  brand_color: "#173B73"
+  default_prompt: "使用 $starry-night-skill 按上传顺序处理这些照片，并分别输出原图与《星月夜》风格效果的高清对照 PNG。"
+
+policy:
+  allow_implicit_invocation: true
