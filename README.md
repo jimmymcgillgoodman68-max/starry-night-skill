@@ -16,7 +16,8 @@
 ```bash
 python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
   --repo jimmymcgillgoodman68-max/starry-night-skill \
-  --path starry-night-skill
+  --path starry-night-skill \
+  --method git
 ```
 
 安装后，在新的 Codex 对话中直接调用：
